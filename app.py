@@ -22,7 +22,7 @@ from custom_bi_page import show_custom_bi_page
 # ============================================================================
 
 st.set_page_config(
-    page_title="TrendiFY",
+    page_title="TrendyFire",
     page_icon=None,
     layout="wide",
     initial_sidebar_state="expanded"
