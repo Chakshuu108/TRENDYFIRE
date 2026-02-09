@@ -180,7 +180,7 @@ def main():
     show_sidebar()
     
     # Main header
-    st.markdown('<div class="main-header">TrendiFY</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-header">TrendyFire</div>', unsafe_allow_html=True)
     st.markdown("### Predict future demand using customer sentiment and feedback")
     
     # Create tabs
